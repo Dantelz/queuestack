@@ -179,10 +179,6 @@ class Queue:
         self.lista.print_list()
 
 
-# -------------------------
-# MAIN
-# -------------------------
-
 print("===== STACK =====")
 
 stack = Stack()
